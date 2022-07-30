@@ -17,6 +17,11 @@ class ViewController: UIViewController {
         
         x = 1+x
         
+        var y=0
+        
+        y = 3-y
+        
+        
     }
 
 
